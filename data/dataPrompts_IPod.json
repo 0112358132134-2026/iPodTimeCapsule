@@ -1,0 +1,1306 @@
+[
+  { "prompt": "Which company produces the iPod?",
+    "completion": "Apple END"
+  },
+  {
+    "prompt": "When was the original iPod released?",
+    "completion": "October 23, 2001 END"
+  },
+  {
+    "prompt": "How many different types of iPod are currently available?",
+    "completion": "One: The iPod Touch. END"
+  },
+  {
+    "prompt": "What kind of device is the iPod?",
+    "completion": "portable media players END"
+  },
+  {
+    "prompt": "The iPod Touch uses what kind of interface?",
+    "completion": "touchscreen END"
+  },
+  {
+    "prompt": "In what year was the first iPod released?",
+    "completion": "2001 END"
+  },
+  {
+    "prompt": "What company manufactures the iPod?",
+    "completion": "Apple END"
+  },
+  {
+    "prompt": "How many versions of the iPod currently exist?",
+    "completion": "5 END"
+  },
+  {
+    "prompt": "Which is the smallest version of the iPod?",
+    "completion": "Shuffle END"
+  },
+  {
+    "prompt": "In what year was the iPod most recently redesigned?",
+    "completion": "2019. When Apple released the 7th generation iPod Touch. END"
+  },
+  {
+    "prompt": "In addition to playing music, what other function can the iPod perform?",
+    "completion": "data storage END"
+  },
+  {
+    "prompt": "What is the smallest data capacity for an iPod product?",
+    "completion": "2 GB END"
+  },
+  {
+    "prompt": "What is the largest data capacity for an iPod product?",
+    "completion": "256GB END"
+  },
+  {
+    "prompt": "Which iPod product features the smallest data storage capacity?",
+    "completion": "iPod Shuffle END"
+  },
+  {
+    "prompt": "Which current iPod product features the largest data storage capacity?",
+    "completion": "iPod Touch END"
+  },
+  {
+    "prompt": "What's the storage capacity of the iPod Shuffle?",
+    "completion": "2 GB END"
+  },
+  {
+    "prompt": "What's the storage capacity for the iPod Touch?",
+    "completion": "32GB, 128GB, and 256GB END"
+  },
+  {
+    "prompt": "What Apple program is used to communicate between computers and portable devices?",
+    "completion": "iTunes END"
+  },
+  {
+    "prompt": "Which operating systems are compatible with iTunes?",
+    "completion": "Apple Macintosh and Microsoft Windows END"
+  },
+  {
+    "prompt": "What's the name of the software used to manage music and other media on Apple devices?",
+    "completion": "iTunes END"
+  },
+  {
+    "prompt": "How many apps were required to play music and videos on an iPhone or iPad before the release of iOS 5?",
+    "completion": "One: iPod app. END"
+  },
+  {
+    "prompt": "In mid-2010, which Apple device had higher sales than iPod?",
+    "completion": "iPhone END"
+  },
+  {
+    "prompt": "With what iOS release did Apple standardize media apps on all their products?",
+    "completion": "iOS 5 END"
+  },
+  {
+    "prompt": "In what year did iPhone sales surpass those of iPods?",
+    "completion": "2010 END"
+  },
+  {
+    "prompt": "What are the titles of the standard media apps on current Apple devices?",
+    "completion": "\"Music\" and \"Videos\" END"
+  },
+  {
+    "prompt": "What processor model is used in the iPod Touch?",
+    "completion": "A10 END"
+  },
+  {
+    "prompt": "Which generation of iPod Touch was made availalbe in July of 2015?",
+    "completion": "sixth END"
+  },
+  {
+    "prompt": "What's the most recent generation of iPod Touch?",
+    "completion": "seventh END"
+  },
+  {
+    "prompt": "In what year was the most recent iPod Touch released?",
+    "completion": "2019 END"
+  },
+  {
+    "prompt": "What type of processor does the current iPod Touch use?",
+    "completion": "A10 END"
+  },
+  {
+    "prompt": "In how many colors is the current iPod Touch available?",
+    "completion": "7 END"
+  },
+  {
+    "prompt": "In what year was the iPod first introduced?",
+    "completion": "2001 END"
+  },
+  {
+    "prompt": "In what year did iPod sales show improvement?",
+    "completion": "2004 END"
+  },
+  {
+    "prompt": "Which Apple engineer led original iPod design group?",
+    "completion": "Jon Rubinstein END"
+  },
+  {
+    "prompt": "What radio was the primary inspiration for the look of the iPod?",
+    "completion": "Braun T3 transistor radio END"
+  },
+  {
+    "prompt": "What was the storage capacity of the first iPod?",
+    "completion": "5 GB END"
+  },
+  {
+    "prompt": "in what year was the original iPod released?",
+    "completion": "2001 END"
+  },
+  {
+    "prompt": "How large was the hard drive on the original iPod?",
+    "completion": "5 GB END"
+  },
+  {
+    "prompt": "What other popular music player did Apple compare their new product to?",
+    "completion": "the Walkman END"
+  },
+  {
+    "prompt": "What is the name of Apple's hardware engineering chief who helped design the iPod?",
+    "completion": "Jon Rubinstein END"
+  },
+  {
+    "prompt": "Who manufactured the hard drives for the first iPods?",
+    "completion": "Toshiba END"
+  },
+  {
+    "prompt": "Which company worked with Apple in creating the user interface for the iPod?",
+    "completion": "Pixo END"
+  },
+  {
+    "prompt": "What was the name of the font used prior to the release of the iPod Mini?",
+    "completion": "Chicago END"
+  },
+  {
+    "prompt": "In what year was the 6th gen iPod Classic released?",
+    "completion": "2007 END"
+  },
+  {
+    "prompt": "The 6th gen iPod Classic and 3rd gen iPod nano featured which font?",
+    "completion": "Helvetica END"
+  },
+  {
+    "prompt": "Who supervised the design and implementation of the iPod user interface?",
+    "completion": "Steve Jobs END"
+  },
+  {
+    "prompt": "What software did Apple use as the basis for their iPod software?",
+    "completion": "PortalPlayer END"
+  },
+  {
+    "prompt": "What typeface does the current iPod use?",
+    "completion": "Helvetica END"
+  },
+  {
+    "prompt": "In what year was a special edition of the iPod produced?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "For what musical group was a special edition of the iPod first made?",
+    "completion": "U2 END"
+  },
+  {
+    "prompt": "What color was the metal on the U2 version of the iPod?",
+    "completion": "black END"
+  },
+  {
+    "prompt": "What type of media was included with purchase of the U2 version of the iPod?",
+    "completion": "video END"
+  },
+  {
+    "prompt": "Of what band did Apple present a special edition iPod 5G?",
+    "completion": "U2 END"
+  },
+  {
+    "prompt": "What color was the special U2 iPod model?",
+    "completion": "black END"
+  },
+  {
+    "prompt": "In what year did apple release the special U2 model of the iPod?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "Apple was involved in a lawsuit with which company in 2007?",
+    "completion": "Burst.com END"
+  },
+  {
+    "prompt": "Who previously applied for a patent for an iPod-like device?",
+    "completion": "Kane Kramer END"
+  },
+  {
+    "prompt": "In what country did Kane Kramer apply for his patent?",
+    "completion": "UK END"
+  },
+  {
+    "prompt": "In what year did Kane Kramer apply for his patent?",
+    "completion": "1981 END"
+  },
+  {
+    "prompt": "What did Kane Kramer call the device for which he wanted a patent?",
+    "completion": "IXI END"
+  },
+  {
+    "prompt": "What patent holding company sued Apple in 2007?",
+    "completion": "Burst.com END"
+  },
+  {
+    "prompt": "What was the name of the previously-patented music player from 1981?",
+    "completion": "IXI END"
+  },
+  {
+    "prompt": "Who was the holder of the previous patent for the \"plastic music box\"?",
+    "completion": "Kane Kramer END"
+  },
+  {
+    "prompt": "Who came up with the name for Apple's portable mp3 player?",
+    "completion": "Vinnie Chieco END"
+  },
+  {
+    "prompt": "What was Vinnie Chieco's profession?",
+    "completion": "freelance copywriter END"
+  },
+  {
+    "prompt": "What film inspired the name of the iPod?",
+    "completion": "2001: A Space Odyssey END"
+  },
+  {
+    "prompt": "Who first trademarked the iPod name?",
+    "completion": "Joseph N. Grasso END"
+  },
+  {
+    "prompt": "In what year was Apple given rights to the iPod name?",
+    "completion": "2005 END"
+  },
+  {
+    "prompt": "What movie inspired the iPod name?",
+    "completion": "2001: A Space Odyssey END"
+  },
+  {
+    "prompt": "What was the name of the copywriter that proposed the name \"iPod\"?",
+    "completion": "Vinnie Chieco END"
+  },
+  {
+    "prompt": "Who held the original trademark for the iPod name?",
+    "completion": "Joseph N. Grasso END"
+  },
+  {
+    "prompt": "When were images of new iPod colors leaked?",
+    "completion": "mid-2015 END"
+  },
+  {
+    "prompt": "Who leaked the photos of new iPod colors?",
+    "completion": "Pierre Dandumont END"
+  },
+  {
+    "prompt": "What version of iTunes contained the leaked photos of new iPod colors?",
+    "completion": "12.2 END"
+  },
+  {
+    "prompt": "What was the latest version of iTunes as of mid-2015?",
+    "completion": "12.2 END"
+  },
+  {
+    "prompt": "Who first leaked the photos of the new iPod color scheme?",
+    "completion": "Pierre Dandumont END"
+  },
+  {
+    "prompt": "What audio deficiency was found in the 3rd gen iPods?",
+    "completion": "weak bass response END"
+  },
+  {
+    "prompt": "What kind of headphones could partially mitigate the bass response issues of the 3rd gen iPods?",
+    "completion": "high-impedance END"
+  },
+  {
+    "prompt": "What is an example of a device that could entirely mitigate the bass response issues of the 3rd gen iPods?",
+    "completion": "external headphone amplifier END"
+  },
+  {
+    "prompt": "What part of audio output was substandard on 3rd generation iPods?",
+    "completion": "bass END"
+  },
+  {
+    "prompt": "What component was to blame for the weak bass of the 3rd generation iPod?",
+    "completion": "undersized DC-blocking capacitors END"
+  },
+  {
+    "prompt": "What acoustic element could be distorted by different audio settings in iPods prior to 2007?",
+    "completion": "Bass END"
+  },
+  {
+    "prompt": "Name four sound profiles that would result in bass distortion on pre-2007 iPods.",
+    "completion": "R&B, Rock, Acoustic, and Bass Booster END"
+  },
+  {
+    "prompt": "What specific problem caused the issue with bass distortion?",
+    "completion": "clipping END"
+  },
+  {
+    "prompt": "iPods released before what year had issues with distorted bass?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "What EQ settings were known to have issues with bass distortion?",
+    "completion": "R&B, Rock, Acoustic, and Bass Booster END"
+  },
+  {
+    "prompt": "What type of sensory issue was a concern prior to the release of 5th gen iPods?",
+    "completion": "hearing loss END"
+  },
+  {
+    "prompt": "In what markets did 6th gen iPods limit the highest volume of the player?",
+    "completion": "EU END"
+  },
+  {
+    "prompt": "What was the limit imposed on how loud the iPod could play sounds in the EU?",
+    "completion": "100 dB END"
+  },
+  {
+    "prompt": "In what country did Apple have to recall iPods?",
+    "completion": "France END"
+  },
+  {
+    "prompt": "What is the highest volume output level of European 6th-generation iPods?",
+    "completion": "100 dB END"
+  },
+  {
+    "prompt": "What country originally pulled iPods due to higher-than-allowed volume levels?",
+    "completion": "France END"
+  },
+  {
+    "prompt": "What was the first type of connection used by the iPod to charge and transfer files?",
+    "completion": "FireWire END"
+  },
+  {
+    "prompt": "What was an alternate method of charging the iPod?",
+    "completion": "power adapter END"
+  },
+  {
+    "prompt": "What type of connector was originally required to upload songs or recharge the iPod?",
+    "completion": "FireWire END"
+  },
+  {
+    "prompt": "In which generation did iPod start providing compatibility with USB?",
+    "completion": "third generation END"
+  },
+  {
+    "prompt": "What iPod feature allowed for USB connections with the device?",
+    "completion": "30-pin dock connector END"
+  },
+  {
+    "prompt": "Which generation of iPod Classic was the first to abandon use of FireWire in transferring files?",
+    "completion": "fifth END"
+  },
+  {
+    "prompt": "Starting with which generation of iPod Nano was FireWire charging functionality no longer available?",
+    "completion": "fourth END"
+  },
+  {
+    "prompt": "What kind of connection is provided on the iPod Shuffle for both audio output and file transfer?",
+    "completion": "3.5 mm minijack END"
+  },
+  {
+    "prompt": "Which generation iPod was the first to include the 30-pin dock connector?",
+    "completion": "third generation END"
+  },
+  {
+    "prompt": "Which model of iPod combined the headphone jack and data port?",
+    "completion": "Shuffle END"
+  },
+  {
+    "prompt": "What interface was gradually phased out for both charging and data transfer?",
+    "completion": "FireWire END"
+  },
+  {
+    "prompt": "What interface replaced FireWire in later iterations of the iPod?",
+    "completion": "USB END"
+  },
+  {
+    "prompt": "Which iPod accessory was made by Apple but is no longer produced?",
+    "completion": "iPod Hi-Fi END"
+  },
+  {
+    "prompt": "What are two companies that make iPod accessories?",
+    "completion": "Belkin and Griffin END"
+  },
+  {
+    "prompt": "What part of the iPod is needed to communicate with peripherals?",
+    "completion": "dock connector END"
+  },
+  {
+    "prompt": "What is the condition for third parties using the dock connector?",
+    "completion": "paying royalties END"
+  },
+  {
+    "prompt": "The majority of peripherals for iPod are produced by what kinds of companies?",
+    "completion": "third parties END"
+  },
+  {
+    "prompt": "What's the name of the now-discontinued accessory manufactured by Apple, that connected via the iPod's dock connector?",
+    "completion": "iPod Hi-Fi END"
+  },
+  {
+    "prompt": "What new connector did Apple unveil on September 12, 2012?",
+    "completion": "Lightning END"
+  },
+  {
+    "prompt": "What other Apple product was unveiled on September 12, 2012?",
+    "completion": "seventh generation iPod Nano END"
+  },
+  {
+    "prompt": "How many pins did the pre-Lightning dock connecter use?",
+    "completion": "30 END"
+  },
+  {
+    "prompt": "How many pins did the Lightning connector have?",
+    "completion": "8 END"
+  },
+  {
+    "prompt": "On how many sides of the Lightning connector are the pins located?",
+    "completion": "both sides END"
+  },
+  {
+    "prompt": "What's Apple's code name for the newer 8-pin dock connector?",
+    "completion": "Lightning END"
+  },
+  {
+    "prompt": "What was the first iPod Touch generation to feature the Lightning connector?",
+    "completion": "fifth generation END"
+  },
+  {
+    "prompt": "What is the name of an Apple-produced iPod accessory?",
+    "completion": "iPod Hi-Fi END"
+  },
+  {
+    "prompt": "What is an example of an iPod accessory made work exercise?",
+    "completion": "Nike+iPod pedometer END"
+  },
+  {
+    "prompt": "What are six companies that made some of the first peripherals for the iPod?",
+    "completion": "Griffin Technology, Belkin, JBL, Bose, Monster Cable, and SendStation END"
+  },
+  {
+    "prompt": "What can A/V cables be used to connect the iPod to?",
+    "completion": "TV END"
+  },
+  {
+    "prompt": "Who manufactures a pedometer accessory for the iPod?",
+    "completion": "Nike END"
+  },
+  {
+    "prompt": "Which company manufactures the iPod Hi-Fi accessory?",
+    "completion": "Apple END"
+  },
+  {
+    "prompt": "What company was first to create a means of connecting the iPod to an automobile?",
+    "completion": "BMW END"
+  },
+  {
+    "prompt": "In what year did Apple reveal that it would provide compatibility with a wide range of auto manufacturers?",
+    "completion": "2005 END"
+  },
+  {
+    "prompt": "Which company provides the ability to connect to iPods as a standard feature in their automobiles?",
+    "completion": "Scion END"
+  },
+  {
+    "prompt": "Which car company released the first automobile interface for the iPod?",
+    "completion": "BMW END"
+  },
+  {
+    "prompt": "Which car company first offered iPod connectivity as a standard feature on their whole product line?",
+    "completion": "Scion END"
+  },
+  {
+    "prompt": "What companies have developed iPod interfacing for their stereo systems?",
+    "completion": "JVC, Pioneer, Kenwood, Alpine, Sony, and Harman Kardon END"
+  },
+  {
+    "prompt": "What type of transmitter is used in the iTrip?",
+    "completion": "FM END"
+  },
+  {
+    "prompt": "What has become a standard inclusion in cars for several different auto companies?",
+    "completion": "audio input jacks END"
+  },
+  {
+    "prompt": "Which type of iPod car integration product is illegal in certain countries?",
+    "completion": "FM transmitters END"
+  },
+  {
+    "prompt": "What audio integration feature has become standard on many car models?",
+    "completion": "audio input jacks END"
+  },
+  {
+    "prompt": "In 2007, which airlines made deals to include iPod connections on their planes?",
+    "completion": "United, Continental, Delta, and Emirates END"
+  },
+  {
+    "prompt": "Where can people using iPods on planes view the device's interface?",
+    "completion": "individual seat-back displays END"
+  },
+  {
+    "prompt": "What are two airlines that considered implementing iPod connections but did not join the 2007 agreement?",
+    "completion": "KLM and Air France END"
+  },
+  {
+    "prompt": "Which airlines first agreed to install seat connections for iPods?",
+    "completion": "United, Continental, Delta, and Emirates END"
+  },
+  {
+    "prompt": "In what year did airlines first start to accommodate the iPod?",
+    "completion": "2007 END"
+  },
+  {
+    "prompt": "What is the name of an audio format developed by Apple?",
+    "completion": "Apple Lossless END"
+  },
+  {
+    "prompt": "Which product enabled users to view images on the device?",
+    "completion": "iPod photo END"
+  },
+  {
+    "prompt": "What Microsoft media format is not natively supported by Apple devices?",
+    "completion": "WMA END"
+  },
+  {
+    "prompt": "What does DRM stand for?",
+    "completion": "Digital Rights Management END"
+  },
+  {
+    "prompt": "What computer OS did iPod software exclusively work with at launch?",
+    "completion": "Mac OS END"
+  },
+  {
+    "prompt": "What are some examples of audio formats supported by the iPod?",
+    "completion": "MP3, AAC/M4A, Protected AAC, AIFF, WAV, Audible audiobook, and Apple Lossless END"
+  },
+  {
+    "prompt": "What was the first model to support JPEG and other still image formats?",
+    "completion": "iPod photo END"
+  },
+  {
+    "prompt": "How many hosts are recognized by an iPod the first time they're used?",
+    "completion": "one END"
+  },
+  {
+    "prompt": "What will be erased if an iPod is set to sync with a different computer?",
+    "completion": "library END"
+  },
+  {
+    "prompt": "What must an iPod be connected to before iTunes can synchronize?",
+    "completion": "host computer END"
+  },
+  {
+    "prompt": "How many buttons do most iPods use?",
+    "completion": "Three END"
+  },
+  {
+    "prompt": "On what part of newer iPods can you find the buttons?",
+    "completion": "click wheel END"
+  },
+  {
+    "prompt": "Where are the controls located on the 3rd gen iPod Shuffle?",
+    "completion": "earphone cable END"
+  },
+  {
+    "prompt": "What kind of interface does the iPod touch use instead of the click wheel?",
+    "completion": "touch screen END"
+  },
+  {
+    "prompt": "What other device shares the interface used by the iPod Touch?",
+    "completion": "iPhone END"
+  },
+  {
+    "prompt": "Most iPods feature how many buttons?",
+    "completion": "Three END"
+  },
+  {
+    "prompt": "The 3rd generation of which iPod model had its controls only on the earphone cable?",
+    "completion": "Shuffle END"
+  },
+  {
+    "prompt": "Which other Apple product does the iPod Touch share an interface and OS with?",
+    "completion": "iPhone END"
+  },
+  {
+    "prompt": "When was the Apple iTunes Store launched?",
+    "completion": "April 29, 2003 END"
+  },
+  {
+    "prompt": "What program is required to access the iTunes Store?",
+    "completion": "iTunes END"
+  },
+  {
+    "prompt": "When were videos made available through the iTunes store?",
+    "completion": "October 12, 2005 END"
+  },
+  {
+    "prompt": "When did Apple begin selling entire films through the iTunes store?",
+    "completion": "September 12, 2006 END"
+  },
+  {
+    "prompt": "In what year was the iTunes store established?",
+    "completion": "2003 END"
+  },
+  {
+    "prompt": "In what year did videos first become available on iTunes?",
+    "completion": "2005 END"
+  },
+  {
+    "prompt": "When were full-length moved added to the iTunes store?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "When the iTunes store was launched, what type of file format was used?",
+    "completion": "AAC END"
+  },
+  {
+    "prompt": "How many computers were allowed to play files that used the FairPlay DRM system?",
+    "completion": "five END"
+  },
+  {
+    "prompt": "In what category could files without digital rights management be found on the iTunes store?",
+    "completion": "iTunes Plus END"
+  },
+  {
+    "prompt": "When did Apple reveal that most of the iTunes selection was free from DRM?",
+    "completion": "January 6, 2009 END"
+  },
+  {
+    "prompt": "By what time did Apple project its entire catalog would be free of DRM?",
+    "completion": "April 2009 END"
+  },
+  {
+    "prompt": "What was the original format for purchased audio files on iTunes?",
+    "completion": "AAC END"
+  },
+  {
+    "prompt": "What was the name of the DRM system originally used by Apple and iTunes?",
+    "completion": "FairPlay END"
+  },
+  {
+    "prompt": "What was the name of the premium service that offered higher quality and DRM-free songs?",
+    "completion": "iTunes Plus END"
+  },
+  {
+    "prompt": "In what year was DRM completely eliminated from the iTunes offerings?",
+    "completion": "2009 END"
+  },
+  {
+    "prompt": "What are two stores which sell files with DRM not compatible with iPods?",
+    "completion": "Napster and PlaysForSure END"
+  },
+  {
+    "prompt": "For what device's sales does Apple leverage the iTunes store?",
+    "completion": "iPod, iPhone, iPad, Mac and Apple TV END"
+  },
+  {
+    "prompt": "The iPod can play music from other online stores as long as they don't contain what feature?",
+    "completion": "DRM END"
+  },
+  {
+    "prompt": "What company ended its deal with Apple's music store in July of 2007?",
+    "completion": "Universal Music Group END"
+  },
+  {
+    "prompt": "What entity did Universal have a contract with prior to July of 2007?",
+    "completion": "iTunes Store END"
+  },
+  {
+    "prompt": "In what year did Universal Music Group let their contract with iTunes lapse?",
+    "completion": "2007 END"
+  },
+  {
+    "prompt": "What was the name of the event at which the iTunes Wi-Fi store was launched?",
+    "completion": "The Beat Goes On... END"
+  },
+  {
+    "prompt": "On what date was the iTunes Wi-Fi Music Store launched?",
+    "completion": "September 5, 2007 END"
+  },
+  {
+    "prompt": "In what year was the iTunes Wi-Fi Music Store introduced?",
+    "completion": "2007 END"
+  },
+  {
+    "prompt": "Which Apple device has the ability to sync with iTunes via the phone network?",
+    "completion": "iPhone and iPad END"
+  },
+  {
+    "prompt": "On what Apple devices can video games be used?",
+    "completion": "iPhone, iPad, iPod Touch, Apple TV and Mac END"
+  },
+  {
+    "prompt": "What was included on the first iPod?",
+    "completion": "Brick END"
+  },
+  {
+    "prompt": "Who created Brick?",
+    "completion": "Nolan Bushnell and Steve Bristow END"
+  },
+  {
+    "prompt": "What are three games, in addition to Brick, which have been included with the iPod?",
+    "completion": "Parachute, Solitaire, and Music Quiz END"
+  },
+  {
+    "prompt": "What is another phrase meaning hidden feature?",
+    "completion": "easter egg END"
+  },
+  {
+    "prompt": "What was the first, hidden game included with the original iPod?",
+    "completion": "Brick END"
+  },
+  {
+    "prompt": "What other games were later added to the original iPod?",
+    "completion": "Parachute, Solitaire, and Music Quiz END"
+  },
+  {
+    "prompt": "In what year did the iTunes store begin allowing users to buy video games?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "Which version of iTunes was introduced with the ability to purchase games?",
+    "completion": "iTunes 7 END"
+  },
+  {
+    "prompt": "What was the first generation of iPod Classic on which games like Mahjong and Tetris could be played?",
+    "completion": "5th generation END"
+  },
+  {
+    "prompt": "On which generation of iPod Nano can games be played?",
+    "completion": "3rd. generation END"
+  },
+  {
+    "prompt": "In what year did iTunes 7 launch, along with a plethora of additional games?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "Which generation iPod was required to enjoy the new games available on iTunes 7?",
+    "completion": "fifth END"
+  },
+  {
+    "prompt": "What are the names of companies producing video games for Apple's MP3 player?",
+    "completion": "Namco, Gameloft, Electronic Arts, PopCap Games,Sega, and Digital Chocolate END"
+  },
+  {
+    "prompt": "What market can Apple participate in now that it has a variety of games available for iPod?",
+    "completion": "video game handheld console market END"
+  },
+  {
+    "prompt": "What two publications have covered iPod games?",
+    "completion": "iLounge and TouchArcade END"
+  },
+  {
+    "prompt": "What format is used for iPod game files?",
+    "completion": ".ipg END"
+  },
+  {
+    "prompt": "What file format is being covered up by the use of ipg files?",
+    "completion": ".zip END"
+  },
+  {
+    "prompt": "What does SDK stand for?",
+    "completion": "software development kit END"
+  },
+  {
+    "prompt": "What is the only operating system on which iPhone SDK-made games can be played?",
+    "completion": "iOS END"
+  },
+  {
+    "prompt": "What file format are iPod games distributed in?",
+    "completion": ".ipg END"
+  },
+  {
+    "prompt": "An app produced with the iPhone SDK can only run on what devices?",
+    "completion": "iPhone, iPad and iPod Touch END"
+  },
+  {
+    "prompt": "Is the Apple SDK available to third-party game publishers?",
+    "completion": "Yes END"
+  },
+  {
+    "prompt": "What kind program is commonly used to move files between iTunes and an iPod?",
+    "completion": "iTunes END"
+  },
+  {
+    "prompt": "What kind of other applications enable communication between iTunes and an iPod?",
+    "completion": "iMazing, PodTrans, Floola END"
+  },
+  {
+    "prompt": "Rather than copying media files directly to it, what software must be used for this purpose so that they are accessible?",
+    "completion": "iTunes END"
+  },
+  {
+    "prompt": "What kind of security determines if files moved to a computer can be played?",
+    "completion": "Digital Rights Management (DRM) END"
+  },
+  {
+    "prompt": "What minimum version of iTunes is required to transfer purchased media from an iPod to an authorized computer?",
+    "completion": "iTunes version 9 END"
+  },
+  {
+    "prompt": "In what kind of folder are files located in the iPod?",
+    "completion": "hidden END"
+  },
+  {
+    "prompt": "On what kind of operating system can hidden iPod files be accessed?",
+    "completion": "host END"
+  },
+  {
+    "prompt": "What method of file recovery is used to retrieve data from the iPod?",
+    "completion": "iTunes Backup END"
+  },
+  {
+    "prompt": "In what year did Apple face multiple intellectual property lawsuits?",
+    "completion": "2005 END"
+  },
+  {
+    "prompt": "What did the 2005 lawsuits accuse Apple of doing?",
+    "completion": "patent infringement END"
+  },
+  {
+    "prompt": "What other companies were named in the suit filed by Pat-rights?",
+    "completion": "Sony, RealNetworks, Napster, and Musicmatch END"
+  },
+  {
+    "prompt": "On whose behalf did Pat-rights take Apple to court?",
+    "completion": "Ho Keung Tse END"
+  },
+  {
+    "prompt": "Which company sued Apple for breach of a \"music jukebox\" patent in 2005?",
+    "completion": "Advanced Audio Devices END"
+  },
+  {
+    "prompt": "Which Apple technology did Pat-rights complain breached their patent in a lawsuit?",
+    "completion": "FairPlay END"
+  },
+  {
+    "prompt": "What interface component did Apple attempt to patent in 2005?",
+    "completion": "rotational user inputs END"
+  },
+  {
+    "prompt": "When did Apple receive a decision on its attempt to patent rotational user inputs?",
+    "completion": "August 2005 END"
+  },
+  {
+    "prompt": "Which competitor sued Apple over rights to part of the software user interface?",
+    "completion": "Creative Technology END"
+  },
+  {
+    "prompt": "What was the name of the patent over which Creative asserted its ownership?",
+    "completion": "Zen Patent END"
+  },
+  {
+    "prompt": "From which entity did Creative request an investigation into Apple importing their devices to the US?",
+    "completion": "United States International Trade Commission END"
+  },
+  {
+    "prompt": "What interface feature did Apple unsuccessfully try to patent?",
+    "completion": "rotational user inputs END"
+  },
+  {
+    "prompt": "Which rival company sued Apple in 2005 and 2006?",
+    "completion": "Creative Technology END"
+  },
+  {
+    "prompt": "When did Creative and Apple come to an agreement over their intellectual property issues?",
+    "completion": "August 24, 2006 END"
+  },
+  {
+    "prompt": "How much money did Apple have to pay to Creative as a result of their agreement?",
+    "completion": "$100 million END"
+  },
+  {
+    "prompt": "What program did Creative join in order to make iPod peripherals?",
+    "completion": "Made for iPod END"
+  },
+  {
+    "prompt": "How much did Apple pay to Creative Technologies to settle their 2006 suit?",
+    "completion": "$100 million END"
+  },
+  {
+    "prompt": "What's the name of the program by which 3rd parties sell iPod accessories?",
+    "completion": "the Made for iPod program END"
+  },
+  {
+    "prompt": "What share of the US digital music player market does iPod hold?",
+    "completion": "90% END"
+  },
+  {
+    "prompt": "When did iPod become the leader in digital music device sales?",
+    "completion": "2004 END"
+  },
+  {
+    "prompt": "How much of the market did iPod claim as of January 2007?",
+    "completion": "72.7% END"
+  },
+  {
+    "prompt": "Who reported Apple's market share in 2007?",
+    "completion": "Bloomberg Online END"
+  },
+  {
+    "prompt": "Approximately what percentage of the hard drive-based music player sales does iPod have since 2004?",
+    "completion": "90% END"
+  },
+  {
+    "prompt": "Approximately what percentage of the overall music player market does the iPod line have?",
+    "completion": "70% END"
+  },
+  {
+    "prompt": "What did the iPod's US market share peak at in 2005?",
+    "completion": "74% END"
+  },
+  {
+    "prompt": "When did HP unveil their own edition of the iPod?",
+    "completion": "January 8, 2004 END"
+  },
+  { "prompt": "What does HP stand for?", "completion": "Hewlett-Packard END" },
+  {
+    "prompt": "What major retailer sold HP-branded iPod devices?",
+    "completion": "Wal-Mart END"
+  },
+  {
+    "prompt": "HP-branded iPods accounted for what share of iPod purchases?",
+    "completion": "5% END"
+  },
+  {
+    "prompt": "What kind of terms and conditions led HP to leave the iPod market?",
+    "completion": "unfavorable END"
+  },
+  {
+    "prompt": "Which computer company sold iPods from 2004-05 as part of a license agreement with Apple?",
+    "completion": "HP END"
+  },
+  {
+    "prompt": "How many iPods did Apple reveal it sold in April of 2007?",
+    "completion": "hundred million END"
+  },
+  {
+    "prompt": "How much of Apple's revenue was generated by iPod purchases in Q2 of 2007?",
+    "completion": "32% END"
+  },
+  {
+    "prompt": "What is an item that owners of iPods may also purchase?",
+    "completion": "Headphones or Earphones END"
+  },
+  {
+    "prompt": "How much revenue did Apple announce for Q2 2007?",
+    "completion": "$5.26 billion END"
+  },
+  {
+    "prompt": "In which year did Apple top sales of 100,000,000 iPods?",
+    "completion": "2007 END"
+  },
+  {
+    "prompt": "As of 2007, what percentage of Apple's revenue came from iPod sales?",
+    "completion": "32% END"
+  },
+  {
+    "prompt": "What was Apple's revenue for Q3 2007?",
+    "completion": "$6.22 billion END"
+  },
+  {
+    "prompt": "Desktop computers made up how much of Apple's revenue in the third quarter of 2007?",
+    "completion": "19.22% END"
+  },
+  {
+    "prompt": "How much money did Apple make in 2007?",
+    "completion": "$3.5 billion END"
+  },
+  {
+    "prompt": "What was the value of Apple's cash assets at the end of 2007?",
+    "completion": "$15.4 billion END"
+  },
+  {
+    "prompt": "With the help of strong iPod sales, how much profit did they turn in 2007?",
+    "completion": "$3.5 billion END"
+  },
+  {
+    "prompt": "When did Apple reveal it had achieved its highest quarterly earnings to date?",
+    "completion": "January 22, 2008 END"
+  },
+  {
+    "prompt": "What was Apple's highest quarterly profit as of Q1 2008?",
+    "completion": "$1.58 billion END"
+  },
+  {
+    "prompt": "How much of Apple's revenue resulted from purchases of laptop computers in Q1 2008?",
+    "completion": "21% END"
+  },
+  {
+    "prompt": "What percentage of Apples revenue in 1Q08 came from iPods, more than doubling the percentage of notebook sales?",
+    "completion": "42% END"
+  },
+  {
+    "prompt": "Who was Chief Financial Officer of Apple in July of 2009?",
+    "completion": "Peter Oppenheimer END"
+  },
+  {
+    "prompt": "From what year did iPod purchases begin to continuously decline?",
+    "completion": "2008 END"
+  },
+  {
+    "prompt": "How much revenue did iPod sales account for in Q4 2008?",
+    "completion": "14.21% END"
+  },
+  {
+    "prompt": "Approximately how many total iPods had been sold by late 2009?",
+    "completion": "220 million END"
+  },
+  {
+    "prompt": "Which was the first year since iPod's introduction that no new model was released?",
+    "completion": "2013 END"
+  },
+  {
+    "prompt": "What rank did iPod achieve among various computer products in 2006?",
+    "completion": "fourth END"
+  },
+  {
+    "prompt": "What kind of reviews do iPods tend to get?",
+    "completion": "favorable END"
+  },
+  {
+    "prompt": "What two companies use the AAC format for music files?",
+    "completion": "Apple and Rhapsody END"
+  },
+  {
+    "prompt": "What file format is not supported by Sony Ericsson and Nokia?",
+    "completion": "AAC END"
+  },
+  {
+    "prompt": "Which publication praised iPods for revolutionizing the industry?",
+    "completion": "PC World END"
+  },
+  {
+    "prompt": "Which phone manufacturers adopted the AAC file format to become better iPod-compatible?",
+    "completion": "Sony Ericsson and Nokia END"
+  },
+  {
+    "prompt": "Which PC magazine praised the iPod for having \"altered the landscape for portable audio players\"?",
+    "completion": "PC World END"
+  },
+  {
+    "prompt": "Aside from recreational use, in what other arena have iPods found use?",
+    "completion": "business END"
+  },
+  {
+    "prompt": "What are two purposes for which iPods are used in business?",
+    "completion": "Training and Education END"
+  },
+  {
+    "prompt": "What is the name of a company that uses iPods as part of its training?",
+    "completion": "Royal and Western Infirmaries END"
+  },
+  {
+    "prompt": "Where is Royal and Western Infirmaries located?",
+    "completion": "Glasgow, Scotland END"
+  },
+  {
+    "prompt": "What University gave an iPod to first year students in 2004?",
+    "completion": "Duke END"
+  },
+  {
+    "prompt": "What publication lauded the iPod for enabling people to listen to thousands of songs on a portable player?",
+    "completion": "Entertainment Weekly END"
+  },
+  {
+    "prompt": "Which major university began issuing iPods to all incoming freshmen starting in 2004?",
+    "completion": "Duke END"
+  },
+  {
+    "prompt": "Which magazine placed the iPod on its Best of the Decade list for the 00's?",
+    "completion": "TIME END"
+  },
+  {
+    "prompt": "What period of music did the iPod help bring to a close?",
+    "completion": "CD album or the Album Era END"
+  },
+  {
+    "prompt": "In which industry did the iPod have a major impact?",
+    "completion": "music and consumer electronics industry END"
+  },
+  {
+    "prompt": "What did the iPod promote that prompted a big change in the music industry?",
+    "completion": "digital music storage END"
+  },
+  {
+    "prompt": "The ease of collecting singles with the iPod and iTunes is credited with ending what \"era\" in pop music?",
+    "completion": "the Album Era END"
+  },
+  {
+    "prompt": "How long were 5th generation iPods marketed as being able to function before needing to be charged?",
+    "completion": "14 hours END"
+  },
+  {
+    "prompt": "Which website criticized Apple's battery life claims?",
+    "completion": "AppleDefects.com END"
+  },
+  {
+    "prompt": "In what year was Apple sued for issues relating to its battery life?",
+    "completion": "2003 END"
+  },
+  {
+    "prompt": "Discrepancy in what spec brought about a class action suit against Apple in 2003?",
+    "completion": "battery life of the iPod END"
+  },
+  {
+    "prompt": "How many hours of real-time battery life did the 5th-generation iPod test at, compared to its advertised 14 hours?",
+    "completion": "8 hours END"
+  },
+  {
+    "prompt": "Whose directions can be followed to interact with iPod batteries?",
+    "completion": "Apple Support END"
+  },
+  {
+    "prompt": "What did Apple originally tell consumers to purchase when their iPod batteries no longer worked?",
+    "completion": "purchase a new iPod as a replacement END"
+  },
+  {
+    "prompt": "What is the latest iPod model?",
+    "completion": "seventh-generation iPod Touch (2019) END"
+  },
+  {
+    "prompt": "Which iPod component did Apple somewhat inconveniently made non-replaceable?",
+    "completion": "Battery END"
+  },
+  {
+    "prompt": "What type of rechargeable battery does Apple use in its iPods?",
+    "completion": "lithium-ion END"
+  },
+  {
+    "prompt": "What did Apple launch on November 14, 2003?",
+    "completion": "battery replacement program and iTunes Store END"
+  },
+  {
+    "prompt": "How much did iPod owners originally have to pay for replacement batteries?",
+    "completion": "$99 END"
+  },
+  {
+    "prompt": "What was needed to replace an iPod Nano battery?",
+    "completion": "Screwdrivers, Plastic Opening Tools, Adhesive Strips, Anti-static Wrist Strap END"
+  },
+  {
+    "prompt": "What generation saw iPod batterys being affixed with glue?",
+    "completion": "iPod Touch 5th generation END"
+  },
+  {
+    "prompt": "In what year did Apple begin a formal battery replacement program?",
+    "completion": "2003 END"
+  },
+  {
+    "prompt": "What was the original price for a replacement battery from Apple?",
+    "completion": "$99 END"
+  },
+  {
+    "prompt": "Which iPod model has its battery soldered into the unit?",
+    "completion": "iPod Shuffle END"
+  },
+  {
+    "prompt": "What part of the iPod Nano was the cause of the overheating issue?",
+    "completion": "battery END"
+  },
+  {
+    "prompt": "What program allowed users to exchange iPod Nanos which suffered from overheating problems with new safe models?",
+    "completion": "iPod Nano Replacement Program END"
+  },
+  {
+    "prompt": "What are two subjects of criticism of iPods?",
+    "completion": "Non-Replaceable Batteries and Proprietary Ecosystem END"
+  },
+  {
+    "prompt": "What website ran a survey to learn how often iPods ceased working?",
+    "completion": "MacInTouch END"
+  },
+  {
+    "prompt": "How often did MacInTouch discover iPods stopped working, according to their survey?",
+    "completion": "13.7% END"
+  },
+  {
+    "prompt": "When did iPod owners take issue with the fragility of the iPod screen?",
+    "completion": "late 2005 END"
+  },
+  {
+    "prompt": "What did Apple include with the iPod to resolve the screen problem?",
+    "completion": "protective sleeves END"
+  },
+  {
+    "prompt": "Which type of iPod storage proved more reliable than hard drive storage?",
+    "completion": "flash memory END"
+  },
+  {
+    "prompt": "The first generation nano suffered from which component getting damaged easily?",
+    "completion": "screen END"
+  },
+  {
+    "prompt": "What publication revealed information about the working conditions of iPod labor?",
+    "completion": "The Mail on Sunday END"
+  },
+  {
+    "prompt": "What governs iPod manufacturers' labor policies?",
+    "completion": "Apple's Code of Conduct END"
+  },
+  {
+    "prompt": "What percentage of the time did The Mail on Sunday claim workers labored for at least seven straight days?",
+    "completion": "25 END"
+  },
+  {
+    "prompt": "Which British tabloid accused Apple of unfair worker conditions in 2006?",
+    "completion": "The Mail on Sunday END"
+  },
+  {
+    "prompt": "What percentage of Apple's manufacturing employees worked over 60 hour weeks?",
+    "completion": "35% END"
+  },
+  {
+    "prompt": "Who did Apple partner with to monitor its labor policies?",
+    "completion": "Verit\u00e9 END"
+  },
+  {
+    "prompt": "What organization did Apple join to monitor its labor policies?",
+    "completion": "Electronic Industry Code of Conduct Implementation Group END"
+  },
+  {
+    "prompt": "What company was found to be violating Apple's labor policies?",
+    "completion": "Foxconn END"
+  },
+  {
+    "prompt": "Where was the Foxconn plant located?",
+    "completion": "Shenzhen, China END"
+  },
+  {
+    "prompt": "What was the name of Apple's manufacturing company that was accused of overworking its employees?",
+    "completion": "Foxconn Technology Group END"
+  },
+  {
+    "prompt": "What auditor company did Apple hire to oversee worker conditions following the controversy?",
+    "completion": "Fair Labor Association (FLA) END"
+  },
+  {
+    "prompt": "In what year did Foxconn workers first unionize?",
+    "completion": "2006 END"
+  },
+  {
+    "prompt": "In what year was the twin towers accident?",
+    "completion": "2011 END"
+  },
+  {
+    "prompt": "What disappeared in 2009 prior to the suicide of a Foxconn employee?",
+    "completion": "Apple iPhone prototype END"
+  },
+  {
+    "prompt": "In what year did several Foxconn workers commit suicide?",
+    "completion": "2010 END"
+  },
+  {
+    "prompt": "What attribute of the United States could be thought to lead more international and less domestic employment opportunities?",
+    "completion": "Technology and Innovation END"
+  },
+  {
+    "prompt": "To work as a boot disk for a Mac, what file system must an iPod be formatted with?",
+    "completion": "HFS+ END"
+  },
+  {
+    "prompt": "If connected to a Windows PC when first set up, what file system will an iPod be formatted with?",
+    "completion": "FAT32 END"
+  }
+]

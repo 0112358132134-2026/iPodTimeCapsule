@@ -1,0 +1,79 @@
+.container{
+  margin-top: 30px;
+}
+
+.zoom-on-hover {
+  transition: transform 0.3s;
+}
+
+.zoom-on-hover:hover {
+  transform: scale(1.1);
+}
+
+h1 {
+  text-align: center;  
+  font-weight: bold;
+}
+p {
+  text-align: center;
+  color: #888888;
+  font-size: 20px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 5px
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #5182ae;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #436989;
+}
+
+.list-group-item {
+  border-radius: 50px;  
+  background-color: #ebebeb;
+  border: none;  
+  transition: transform 0.2s;
+}
+
+.list-group-item:hover {
+  transform: scale(1.08);
+}
+
+.list-group-item span {    
+  white-space: pre-wrap;
+  overflow: hidden;  
+  text-align: justify;
+}
+
+.list-group-item span:first-child {
+  max-width: 20%;
+  font-weight: bold;
+  padding: 30px;
+  text-transform: uppercase;  
+} 
+
+.list-group-item span:last-child {
+  min-width: 80%;
+  max-width: 80%;
+  padding: 20px;
+  font-size: 50px;
+}
